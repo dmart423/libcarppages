@@ -1,4 +1,4 @@
-# I am a tile
+# I am a title
 I am a paragraph
 
 *This is an index file for names of authors.*
