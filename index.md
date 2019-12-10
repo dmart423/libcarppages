@@ -1,9 +1,9 @@
 # I am a title
-I am a paragraph
+## I am a paragraph
 
 *This is an index file for names of authors.*
 
-1. Jane Doe
+1. Doe, John
 2. Dylan Martin
-3. Joe 
-4. Bob
+3. Doe, Jane 
+4. Wills, Bob
